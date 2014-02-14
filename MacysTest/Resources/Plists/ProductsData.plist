@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>product_1</key>
+	<string>{
+    &quot;id&quot;: 838307,
+    &quot;name&quot;: &quot;Charter Club Dress, Sleeveless Faux-Wrap A-Line&quot;,
+    &quot;description&quot;: &quot;Product Details: Turn on the sparkle. The Tacy evening platform sandals by Alfani. Imported Fabric upper Round peep-toe platform sadnals with back zipper 3/4 platform, 3-3/4 wrapped heel Man-made sole&quot;,
+    &quot;imageName&quot;: &quot;dress.png&quot;,
+    &quot;regularPrice&quot;: &quot;14.99&quot;,
+    &quot;salePrice&quot;: &quot;9.99&quot;,
+    &quot;colors&quot;: [
+        &quot;0xFF0000&quot;,
+        &quot;0x00FF00&quot;,
+        &quot;0x0000FF&quot;,
+        &quot;0xF00F00&quot;,
+        &quot;0xC0C0C0&quot;,
+        &quot;0xFFFF00&quot;,
+        &quot;0xFF0000&quot;,
+        &quot;0xFF0000&quot;,
+        &quot;0x00FF00&quot;,
+        &quot;0x0000FF&quot;,
+        &quot;0xF00F00&quot;,
+        &quot;0xC0C0C0&quot;,
+        &quot;0xFFFF00&quot;,
+        &quot;0xFF0000&quot;
+    ],
+    &quot;stores&quot;: [
+        &quot;New York magazine 1&quot;,
+        &quot;New York magazine 2&quot;,
+        &quot;New York magazine 3&quot;,
+        &quot;San Francisko magazine 1&quot;,
+        &quot;San Francisko magazine 2&quot;,
+        &quot;San Francisko magazine 3&quot;,
+        &quot;Los Angeles magazine 1&quot;,
+        &quot;Los Angeles magazine 2&quot;,
+        &quot;Los Angeles magazine 3&quot;
+    ]
+}</string>
+	<key>product_2</key>
+	<string>{
+    &quot;id&quot;: 51097,
+    &quot;name&quot;: &quot;Charter Club Shoes, Sleeveless Faux-Wrap A-Line&quot;,
+    &quot;description&quot;: &quot;Standout style that gets noticed: this dark color long sleeve button-front shirt from Van Heusen features a fine vertical stripe pattern that pleases the eye and flatters the wearer.&quot;,
+    &quot;imageName&quot;: &quot;shoes.png&quot;,
+    &quot;regularPrice&quot;: &quot;25.99&quot;,
+    &quot;salePrice&quot;: &quot;20.99&quot;,
+    &quot;colors&quot;: [
+        &quot;0xFF0000&quot;,
+        &quot;0x00FF00&quot;,
+        &quot;0xFF0000&quot;,
+        &quot;0x0000FF&quot;,
+        &quot;0xFF0000&quot;,
+        &quot;0xF00F00&quot;,
+        &quot;0xC0C0C0&quot;,
+        &quot;0xFFFF00&quot;,
+        &quot;0xFF0000&quot;,
+        &quot;0xFF0000&quot;,
+        &quot;0xFF0000&quot;
+    ],
+    &quot;stores&quot;: [
+        &quot;New York magazine 1&quot;,
+        &quot;New York magazine 2&quot;,
+        &quot;New York magazine 3&quot;,
+        &quot;New York magazine 4&quot;,
+        &quot;New York magazine 5&quot;,
+        &quot;San Francisko magazine 1&quot;,
+        &quot;San Francisko magazine 2&quot;,
+        &quot;San Francisko magazine 3&quot;,
+        &quot;Mexico City magazine 1&quot;,
+        &quot;Mexico City magazine 2&quot;,
+        &quot;Mexico Cityo magazine 3&quot;
+    ]
+}</string>
+	<key>product_3</key>
+	<string>{
+    &quot;id&quot;: 51097,
+    &quot;name&quot;: &quot;Charter Club Suspenders&quot;,
+    &quot;description&quot;: &quot;The must-have pants for the season: this corduroy style from Ring of Fire. Cotton Machine washable Imported Ring of Fire men&apos;s corduroy pants&quot;,
+    &quot;imageName&quot;: &quot;suspenders.png&quot;,
+    &quot;regularPrice&quot;: &quot;103.99&quot;,
+    &quot;salePrice&quot;: &quot;102.99&quot;,
+    &quot;colors&quot;: [
+        &quot;0x00FF00&quot;,
+        &quot;0xFF0000&quot;,
+        &quot;0xFF0000&quot;
+    ],
+    &quot;stores&quot;: [
+        &quot;Washington magazine 1&quot;,
+        &quot;Washington magazine 2&quot;,
+        &quot;Las Vegas magazine 1&quot;,
+        &quot;Las Vegas magazine 2&quot;,
+        &quot;Las Vegas magazine 3&quot;,
+        &quot;Las Vegas magazine 4&quot;,
+        &quot;Las Vegas magazine 5&quot;,
+        &quot;Mexico City magazine 1&quot;,
+        &quot;Mexico City magazine 2&quot;,
+        &quot;Mexico City magazine 3&quot;
+    ]
+}</string>
+</dict>
+</plist>
